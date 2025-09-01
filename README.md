@@ -7,4 +7,4 @@ solana-keygen new -o keys/local/nameyouwant.json
 ```bash
 surfpool start
 ```
-go to go
+good to go
